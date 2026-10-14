@@ -1,0 +1,4 @@
+phone_camera:
+  ros__parameters:
+    camera_url: "http://192.168.23:24:8080"
+

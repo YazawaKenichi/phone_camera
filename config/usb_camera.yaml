@@ -1,0 +1,8 @@
+phone_camera:
+  ros__parameters:
+    camera_url: "/dev/v4l/by-id/usb-Generic_FULL_HD_1080P_Webcam_200901010001-video-index0"
+    width: 1280
+    height: 720
+    fps: 30.0
+    frame_id: "usb_camera"
+
